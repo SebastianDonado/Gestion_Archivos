@@ -146,7 +146,28 @@ le ́ıdo el archivo, realice una desencriptaci ́on de todas las cadenas, es de
 
 ###### Código
 
+Pirmero creamos un json con los mensajes que queremos desencriptar:
 
+![image](https://github.com/user-attachments/assets/92758dde-16f1-47da-aee9-90726eb1dd26)
 
+Luego creamos un diccionario con las sustituciones:
 
+![image](https://github.com/user-attachments/assets/05ed7e0d-71ea-4c22-84c2-1ed1e4a28a1b)
 
+Luego mediante un for recorremos el diccionario y donde encontremos los simbolos que se encuentran en nuestro diccionario cambiaremos por la vocal correspondiente:
+
+![image](https://github.com/user-attachments/assets/d300063e-27ae-4758-bc2f-c2efd5a383e8)
+
+Por ultimo realizamos lo que hemos venido haciendo que es abrir, leer y escribir sobre archivos json
+
+Código completo:
+
+![image](https://github.com/user-attachments/assets/53507929-c2ec-4b38-a6a4-1a68311bd676)
+
+###### Ejecución
+
+![image](https://github.com/user-attachments/assets/28717cbb-c57f-4b03-9482-bbad16e205ae)
+
+Archivo json
+
+![image](https://github.com/user-attachments/assets/81892d1e-7d56-4891-8d9c-d649e7a9eb8a)
