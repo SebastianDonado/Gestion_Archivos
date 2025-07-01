@@ -1,0 +1,29 @@
+{
+    "Fútbol": [
+        "jadiazcoronado",
+        "cjruizlopez",
+        "llsantamaria",
+        "epmorales"
+    ],
+    "Ajedrez": [
+        "jadiazcoronado",
+        "dmlunasol",
+        "llsantamaria",
+        "epmorales"
+    ],
+    "Gimnasia": [
+        "jadiazcoronado",
+        "dmlunasol",
+        "mpalaciosgomez",
+        "avgarzon"
+    ],
+    "Baloncesto": [
+        "dmlunasol",
+        "cjruizlopez",
+        "epmorales"
+    ],
+    "Natación": [
+        "mpalaciosgomez",
+        "avgarzon"
+    ]
+}

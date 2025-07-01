@@ -1,0 +1,51 @@
+{
+  "jadiazcoronado": {
+    "nombres": "Juan Antonio",
+    "apellidos": "Díaz Coronado",
+    "edad": 19,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Ajedrez", "Gimnasia"]
+  },
+  "dmlunasol": {
+    "nombres": "Dorotea Maritza",
+    "apellidos": "Luna Sol",
+    "edad": 25,
+    "colombiano": false,
+    "deportes": ["Baloncesto", "Ajedrez", "Gimnasia"]
+  },
+  "cjruizlopez": {
+    "nombres": "Carlos Javier",
+    "apellidos": "Ruiz López",
+    "edad": 21,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Baloncesto"]
+  },
+  "mpalaciosgomez": {
+    "nombres": "Mariana",
+    "apellidos": "Palacios Gómez",
+    "edad": 23,
+    "colombiano": true,
+    "deportes": ["Gimnasia", "Natación"]
+  },
+  "llsantamaria": {
+    "nombres": "Luis Leonardo",
+    "apellidos": "Santamaría",
+    "edad": 27,
+    "colombiano": false,
+    "deportes": ["Ajedrez", "Fútbol"]
+  },
+  "avgarzon": {
+    "nombres": "Andrea Valentina",
+    "apellidos": "Garzón",
+    "edad": 20,
+    "colombiano": true,
+    "deportes": ["Natación", "Gimnasia"]
+  },
+  "epmorales": {
+    "nombres": "Esteban",
+    "apellidos": "Pérez Morales",
+    "edad": 22,
+    "colombiano": true,
+    "deportes": ["Baloncesto", "Ajedrez", "Fútbol"]
+  }
+}
